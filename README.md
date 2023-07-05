@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan Katiyar
-- Student at National institute of technology ,patna.
-- 👀 I am currently learning web development.
+- Software Developer
+- National institute of technology ,patna.
 - 📫 Email:aryankatiyar1420@gmail.com
 
 <!---
